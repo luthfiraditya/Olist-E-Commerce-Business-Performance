@@ -1,4 +1,4 @@
-# Olist-E-Commerce-Business-
+# Olist E-Commerce Business Performance
 
 Olist is a Brazilian marketplace that operates in e-commerce segment, but is not an e-commerce itself. It operates as a SaaS (Software as a Service) technology company since 2015.
 
