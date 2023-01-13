@@ -7,3 +7,5 @@ In this article we have some objective to do about the bussiness performance ins
 2. Get New Business Insight : Get a new business insight that can help to reach a new level of company achievement.
 3. Increase Company Value : Can be increase company value from the new business insight.
 4. Plan for Future Strategy : Give the company idea to make the future strategy to handle the obstacle for their business.
+
+you can read the full analysis here : https://luthfirdty.medium.com/olist-e-commerce-business-performance-5ce0b3dc66fb
